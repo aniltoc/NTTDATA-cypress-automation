@@ -84,7 +84,7 @@ NTTDATA-cypress-automation/
  - git clone https://github.com/aniltoc/NTTDATA-cypress-automation.git
  - cd NTTDATA-cypress-automation
   ## Instalar dependências
- - npm install
+ - npm install cypress
 ## Rodar os testes via terminal (não precisa abrir o navegador)
 - npx cypress run
 ## Rodar os testes com o browser de sua preferência
