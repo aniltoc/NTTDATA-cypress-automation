@@ -86,6 +86,7 @@ NTTDATA-cypress-automation/
   ## Instalar dependências
  - npm install
  - npm instal --force (se necessário)
+ - npm audit fix (se necessário corrigir alguma vulnerabilidade)
 ## Rodar os testes via terminal (não precisa abrir o navegador)
 - npx cypress run
 ## Rodar os testes com o browser de sua preferência
