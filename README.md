@@ -46,8 +46,8 @@ A aplicação alvo é a **ServeRest**:
 ### Massa de dados dinâmica
 - `faker` evita conflitos de e-mails, nomes e produtos duplicados.
 
-## Estrutura do projeto
-> Estrutura simplificada:
+## Estrutura simplificada do projeto
+```bash
 NTTDATA-cypress-automation/
   cypress/
     e2e/
@@ -55,7 +55,6 @@ NTTDATA-cypress-automation/
         carrinhos.api.cy.js
         usuarios.api.cy.js
         produtos.api.cy.js
-        (eventuais cenários extras: carrinhos, fluxo de compra, etc.)
       frontend/
         login.cy.js
         usuarios.cy.js
@@ -79,7 +78,7 @@ NTTDATA-cypress-automation/
   cypress.config.js
   package.json
   package-lock.json
-
+```
   ## Como executar o projeto
   ## Clonar o repositório
  - git clone https://github.com/aniltoc/NTTDATA-cypress-automation.git
