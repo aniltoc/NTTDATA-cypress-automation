@@ -6,9 +6,9 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       return config
     },
-    // retries: {
-    //   runMode: 1,   // quando o teste roda no CI
-    //   openMode: 1   // quando roda no modo interativo (cypress open)
-    // },
+    retries: {
+      runMode: 1,  
+      openMode: 1   
+    },
   }
 })
