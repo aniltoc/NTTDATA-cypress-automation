@@ -1,0 +1,39 @@
+{
+  "login": {
+    "emailObrigatorio": "Email é obrigatório",
+    "senhaObrigatoria": "Password é obrigatório",
+    "emailInvalido": "Email deve ser um email válido",
+    "emailEmbranco": "Email não pode ficar em branco",
+    "senhaEmbranco": "Password não pode ficar em branco",
+    "credenciaisInvalidas": "Email e/ou senha inválidos"
+  },
+  "cadastro": {
+    "sucessoCadastro": "Cadastro realizado com sucesso",
+    "emailJaCadastrado": "Este email já está sendo usado",
+    "nomeObrigatorioCadastro": "Nome é obrigatório",
+    "emailObrigatorioCadastro": "Email é obrigatório",
+    "emailInvalidoCadastro": "Email deve ser um email válido",
+    "senhaObrigatoriaCadastro": "Password é obrigatório",
+    "nomeEmBrancoCadastro": "Nome não pode ficar em branco",
+    "emailEmBrancoCadastro": "Email não pode ficar em branco",
+    "senhaEmBrancoCadastro": "Password não pode ficar em branco"
+  },
+  "usuarios": {
+    "tituloCadastro": "Cadastro de usuário",
+    "tituloLista": "Lista de usuários",
+    "nomeObrigatorio": "Nome é obrigatório",
+    "emailObrigatorio": "Email é obrigatório",
+    "senhaObrigatoria": "Password é obrigatório",
+    "emailInvalido": "Email deve ser um email válido",
+    "sucessoCadastro": "Cadastro realizado com sucesso"
+  },
+  "produtos": {
+    "tituloCadastro": "Cadastro de Produtos",
+    "tituloLista": "Lista dos Produtos",
+    "nomeObrigatorio": "Nome é obrigatório",
+    "precoObrigatorio": "Preco é obrigatório",
+    "descricaoObrigatoria": "Descrição é obrigatória",
+    "quantidadeObrigatoria": "Quantidade é obrigatória",
+    "sucessoCadastro": "Cadastro realizado com sucesso"
+  }
+}
